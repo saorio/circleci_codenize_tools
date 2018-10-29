@@ -1,6 +1,8 @@
 # About this repository
-For running codenize.tools on circleCI  
+For running codenize.tools on circleCI
+
 [DockerImage](https://hub.docker.com/r/gunosy/circleci_codenize_tools/)
+[![Docker Repository on Quay](https://quay.io/repository/saorio/circleci_codenize_tools/status "Docker Repository on Quay")](https://quay.io/repository/saorio/circleci_codenize_tools)
 
 ## How to Use for CircleCI
 
